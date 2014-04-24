@@ -1,0 +1,12 @@
+{
+    "popmonth": [6,7,8],
+    "likemonth": [6,7,8],
+    "mintopk": 3,
+    "maxtopk": 7,
+    "repeatbuy": 1,
+    "dynamic": 1,
+    "decay": 1,
+    "bonus": 15,
+    "monthscore": [0.2, 0.4, 0.6, 0.8, 1.0],
+    "rankscore": [0.25, 1.0, 0.5, 0.8]
+}
